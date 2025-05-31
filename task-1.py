@@ -36,8 +36,7 @@ def main():
                 generate_request(request_queue, request_id)
 
             # Обробка заявок
-            if random.choice([True, False]):
-                process_request(request_queue)
+            process_request(request_queue)
 
     except KeyboardInterrupt:
         print("\nПрограма завершена користувачем")
