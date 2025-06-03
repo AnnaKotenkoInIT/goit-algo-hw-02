@@ -1,6 +1,6 @@
 # goit-algo-hw-02
 
-HW fos the Basic Algorithms and Data Structures
+HW for the Basic Algorithms and Data Structures
 
 Завдання 1:
 
